@@ -21,7 +21,7 @@
 
 #ifndef wificlient_h
 #define wificlient_h
-#include <memory>
+#include <memory.h>
 #include "Arduino.h"
 #include "Print.h"
 #include "Client.h"
